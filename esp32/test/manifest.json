@@ -1,8 +1,8 @@
 {
   "esp32": {
-    "version": "2.0.5",
-    "version_int": 20005,
-    "url": "https://raw.githubusercontent.com/SalvatoreBasileMeditel/Medisensor_FW_Rev2/main/esp32/test/wireless_manager-2.0.1.bin",
+    "version": "2.0.1",
+    "version_int": 20001,
+    "url": "https://github.com/SalvatoreBasileMeditel/Medisensor-FW/releases/download/v1.2.0/wireless_manager_broken.bin",
     "sha256": "6dcfc3b3ac488146f54542d5cd2483006527c8ded8c76fcc3c8085aaf11aac90",
     "size": 1792496,
     "secure_version": 0,
